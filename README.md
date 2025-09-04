@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Anmol+Gupta;Aspiring+Software+Engineer;Problem+Solver+%7C+Programmer;Cyber+Security+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=32&duration=2800&pause=800&color=FF6EC7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+Anmol+Gupta;Aspiring+Software+Engineer;Problem+Solver+%7C+Programmer;Tech+Enthusiast;Passionate+about+DSA" alt="Typing Animation" />
 </p>
+
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </p>
@@ -28,9 +30,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color_snake=#36BCF7&color_dots=#E4E4E4,#36BCF7,#FF6EC7,#00C853" alt="minimal snake animation" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/anmol-gupta-714933308">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:anmolgupta2704@gmail.com">
