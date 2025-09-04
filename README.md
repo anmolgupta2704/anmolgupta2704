@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Anmol+Gupta;Aspiring+Software+Engineer;Problem+Solver+%7C+Programmer;Cyber+Security+Enthusiast" alt="Typing Animation" />
+</p>
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
-<!--
-**anmolgupta2704/anmolgupta2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 B.Tech **CSE (Cyber Security)** Student  
+- 💡 Passionate about **Problem Solving, Algorithms & Cyber Security**  
+- 🧑‍💻 Skilled in **C++, Python, SQL, DSA**  
+- 🔭 Exploring **System Design & Software Engineering**  
+- 🎯 Goal → To become a **Skilled Software Engineer**
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-purple?style=for-the-badge" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:anmolgupta2704@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anmolgupta2704">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
