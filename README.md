@@ -51,5 +51,10 @@
   <a href="https://ag-tech.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-FF6EC7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/2301641720021_A/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="[https://www.hackerrank.com/profile/2301641720021_A">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 </p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
